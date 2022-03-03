@@ -9,6 +9,9 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yura-schepilov#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yura-schepilov#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/telegram-light.svg)](https://t.me/yurilov#gh-light-mode-only)
+[![website](./img/telegram-dark.svg)](https://t.me/yurilov#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_yurilov/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_yurilov/#gh-dark-mode-only)
 
