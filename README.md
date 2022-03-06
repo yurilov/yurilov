@@ -1,11 +1,12 @@
 # Hello there, I`m Yurii aka [yurilov][instagram]
 
 - 🌱 I’m currently learning everything
-- 📫 How to reach me: **yuraschepilov@gmail.com**
 - ⚡ Fun fact: I love coding and learn to code
 
-### Connect with me:
-
+### 📫 Connect with me:
+[![website](./img/icons.svg#mail-light)](yuraschepilov@gmail.com#gh-light-mode-only)
+[![website](./img/icons.svg#mail-dark)](yuraschepilov@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yura-schepilov#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yura-schepilov#gh-dark-mode-only)
 &nbsp;&nbsp;
