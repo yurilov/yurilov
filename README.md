@@ -5,9 +5,6 @@
 
 ### 📫 Connect with me:
 
-[![website](./img/mail-light.svg)](mailto:yuraschepilov@gmail.com#gh-light-mode-only)
-[![website](./img/mail-dark.svg)](mailto:yuraschepilov@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yura-schepilov#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yura-schepilov#gh-dark-mode-only)
 &nbsp;&nbsp;
