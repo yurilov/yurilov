@@ -1,6 +1,6 @@
 # Hello there, I`m Yurii aka [yurilov][instagram]
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently working as a gane developer
 - ⚡ Fun fact: I love coding and learn to code
 
 ### 📫 Connect with me:
